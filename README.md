@@ -1,4 +1,4 @@
-# Member_Club_Buddy
+# Members_Club_Buddy
 Single page member club web application.
 
 # Technologies used:
